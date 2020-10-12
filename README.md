@@ -3,7 +3,7 @@
 
 What good is data without a good plot to tell the story?
 
-The project is to analyse the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens.
+The project analyzed the performance of Capomulin versus the other treatment regimens.
 
 Python Matplotlib was used to manipulate and visualize the data and findings. 
 

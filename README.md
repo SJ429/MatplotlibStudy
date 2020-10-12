@@ -10,7 +10,7 @@ Python Matplotlib was used to manipulate and visualize the data and findings.
 The analysis used a complete data from two datasets in CSV format, Mouse_metadata.csv and a Study_results.csv.
 
 
-##Observations and Insights
+## Observations and Insights
 
 1. Ramicane and Capomulin are the two drug regimens that appear to be the two most effective treatment with Standard of Error mean (SEM) at 0.320955 and 0.329346, respectively.      However, Capomulin with SEM of 0.329346 was the drug regimen most tested of the ten drug regimens tested in the study although Ramicane has the lowest SEM at 0.320955.
 

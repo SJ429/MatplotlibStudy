@@ -15,7 +15,7 @@ The analysis used a completed with data from two datasets in CSV format, Mouse_m
 
 2. Capomulin showed to have a high positive correlation between the mouse weight and average tumor volume with a correlation coefficient of 0.84 and a R-squared of about 0.7089.
 
-3. Of the 248 unique mouse ids in the study, male mice were 125 at 50.4% and the female mice at 123 represents 49.6%. Thus, there was no significant gender bias in the number of      mice included in the study
+3. Of the 248 unique mouse ids in the study, male mice were 125 at 50.4% and the female mice at 123 represents 49.6%. Thus, there was no significant gender bias in the number of      mice included in the study.
 
 
 

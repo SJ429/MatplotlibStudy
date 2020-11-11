@@ -1,5 +1,5 @@
 
-# Matplotlib - The Power of Plots
+# Matplotlib -  Power of Plots
 
 What good is data without a good plot to tell the story?
 

@@ -19,7 +19,9 @@ The analysis was completed with data from two datasets in CSV format, Mouse_meta
 
 
 
+
 ![](images/Distribution%20Female%20vs%20Male.png)  ![](images/Number%20of%20Mice%20per%20Timepoint.png)
+
 
 
 

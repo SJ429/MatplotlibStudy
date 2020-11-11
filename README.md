@@ -7,7 +7,7 @@ The assignment was to use Python Matplotlib to analyze the performance of Capomu
 
 Thus, Python Matplotlib was used to manipulate and visualize the data and findings. 
 
-The analysis used a completed with data from two datasets in CSV format, Mouse_metadata.csv and a Study_results.csv.
+The analysis was completed with data from two datasets in CSV format, Mouse_metadata.csv and a Study_results.csv.
 
 ## Observations and Insights
 

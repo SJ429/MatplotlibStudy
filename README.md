@@ -30,7 +30,7 @@ The analysis was completed with data from two datasets in CSV format, Mouse_meta
 
  ![](images/Tumor%20Volume%20(mm3)%20by%20Regimen.png)
 
-# Language and Technologies
+## Language and Technologies
 
 Pandas Library and the Jupyter Notebook and Matplotlib.
 
